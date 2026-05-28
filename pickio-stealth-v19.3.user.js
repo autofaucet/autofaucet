@@ -209,7 +209,7 @@
     ═══════════════════════════════════════════════════════ */
 
     const CONFIG = {
-        DISCORD_WEBHOOK:   'https://discord.com/api/webhooks/1504883631494004789/pJfb4YXXnzs1IFYr2F9lc5BTh_NNZUwGW0eNWTO3bYV3zodiDWl3pXuVoq8fAeNXpYLd',
+        DISCORD_WEBHOOK:   'YOUR DISCORD WEBHOOK',
         CLAIM_INTERVAL:    60 * 60 * 1000,
         ACTIVITY_TIME:     [30000, 30000],
         PRE_CLICK_DELAY:   [30000, 60000],
